@@ -1,0 +1,10 @@
+C:\Users\Ragnar\AppData\Local\Temporary Projects\StreamReaderDaemi2\bin\Debug\StreamReaderDaemi2.exe
+C:\Users\Ragnar\AppData\Local\Temporary Projects\StreamReaderDaemi2\bin\Debug\StreamReaderDaemi2.pdb
+C:\Users\Ragnar\AppData\Local\Temporary Projects\StreamReaderDaemi2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ragnar\AppData\Local\Temporary Projects\StreamReaderDaemi2\obj\x86\Debug\StreamReaderDaemi2.exe
+C:\Users\Ragnar\AppData\Local\Temporary Projects\StreamReaderDaemi2\obj\x86\Debug\StreamReaderDaemi2.pdb
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi2\StreamReaderDaemi2\obj\x86\Debug\StreamReaderDaemi2.exe
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi2\StreamReaderDaemi2\obj\x86\Debug\StreamReaderDaemi2.pdb
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi2\StreamReaderDaemi2\bin\Debug\StreamReaderDaemi2.exe
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi2\StreamReaderDaemi2\bin\Debug\StreamReaderDaemi2.pdb
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi2\StreamReaderDaemi2\obj\x86\Debug\ResolveAssemblyReference.cache

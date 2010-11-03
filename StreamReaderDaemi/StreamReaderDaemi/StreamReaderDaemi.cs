@@ -13,12 +13,12 @@ namespace StreamReaderDaemi
             //Adda using System.IO;
             string line = null;
 
-            using (StreamReader reader = new StreamReader("stuff.txt"))  //stuff.txt inniheldur tvær línur af texta
+            using (StreamReader reader = new StreamReader("stuff.txt"))  //stuff.txt containes two lines of text
             {
-                line = reader.ReadLine(); //Line verður innihald fyrstu línunnar í skjalinu
+                line = reader.ReadLine(); //Line will contain the first line of the document (stuff.txt)
             }
 
-            Console.WriteLine(line); //Skrifar út fyrstu línuna
+            Console.WriteLine(line); //Writes the first line 
             Console.ReadLine();
         }
     }

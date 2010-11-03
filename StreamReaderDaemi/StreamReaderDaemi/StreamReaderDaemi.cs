@@ -13,7 +13,7 @@ namespace StreamReaderDaemi
             //Adda using System.IO;
             string line = null;
 
-            using (StreamReader reader = new StreamReader("stuff.txt"))  //stuff.txt containes two lines of text
+            using (StreamReader reader = new StreamReader("stuff.txt"))  //stuff.txt contains two lines of text
             {
                 line = reader.ReadLine(); //Line will contain the first line of the document (stuff.txt)
             }

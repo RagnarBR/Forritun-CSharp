@@ -1,0 +1,5 @@
+C:\Users\Ragnar\Desktop\Tækniskólinn\Beta 2010\Beta1002\Beta1002\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ragnar\Desktop\Tækniskólinn\Beta 2010\Beta1002\Beta1002\bin\Debug\Beta1002.exe
+C:\Users\Ragnar\Desktop\Tækniskólinn\Beta 2010\Beta1002\Beta1002\bin\Debug\Beta1002.pdb
+C:\Users\Ragnar\Desktop\Tækniskólinn\Beta 2010\Beta1002\Beta1002\obj\x86\Debug\Beta1002.exe
+C:\Users\Ragnar\Desktop\Tækniskólinn\Beta 2010\Beta1002\Beta1002\obj\x86\Debug\Beta1002.pdb

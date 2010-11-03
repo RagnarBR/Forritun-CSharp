@@ -1,0 +1,5 @@
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi\StreamReaderDaemi\bin\Debug\StreamReaderDaemi.exe
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi\StreamReaderDaemi\bin\Debug\StreamReaderDaemi.pdb
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi\StreamReaderDaemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi\StreamReaderDaemi\obj\x86\Debug\StreamReaderDaemi.exe
+C:\Users\Ragnar\Desktop\Tækniskólinn\Forritun-CSharp\StreamReaderDaemi\StreamReaderDaemi\obj\x86\Debug\StreamReaderDaemi.pdb

@@ -13,26 +13,33 @@ namespace Beta1002
             //Add using System.IO;
 
             string line = null;
-            int teljari = 0; //Ekki notadur enntha
+            int teljari = 0; 
 
             List<int> numbers = new List<int>();
 
-            using(StreamReader reader = new StreamReader("tolur.txt"))
+            using(StreamReader reader = new StreamReader("tolur.txt")) //Tolur er lina af tolum med bili a milli
             {
-                line = reader.ReadLine();
+                line = reader.ReadLine(); //Line verdur linan af tolunum
             }
 
-            for (int i = 0; i < line.Length; i++)
+            string[] lines = line.Split(' '); //By til fylki sem tekur ut oll bilin og setur hverja tolu i sitt holf
+
+            for (int i = 0; i < lines.Length; i++)
             {
-                if (line != " ") //tolur.txt inniheldur linu af tolum med billi a milli
-                {
-                    numbers.Add(Convert.ToInt32(line[i].ToString())); //Aetladi ad setja tolurnar i thetta
-                }
+                numbers.Add(Convert.ToInt32(lines[i].ToString())); //Set tolurnar ur string fylkinu fyrir ofan i numbers 
             }
 
             for (int i = 0; i < numbers.Count; i++)
             {
-                Console.WriteLine(numbers[i]); //Skrifa ut listann
+                teljari++; 
+                Console.Write("{0}: {1}   ", teljari, numbers[i]); //Teljari synir numer linu, og numbers skrifar toluna
+
+                for (int x = 0; x < numbers[i]; x++) //Keyrir a medan x er minna en talan sem verid er ad nota
+                {
+                    Console.Write("*"); //Baetir alltaf stjornu vid
+                }
+
+                Console.WriteLine();
             }
             Console.ReadLine();
         }

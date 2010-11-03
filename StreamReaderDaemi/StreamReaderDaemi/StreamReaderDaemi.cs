@@ -10,15 +10,11 @@ namespace StreamReaderDaemi
     {
         static void Main(string[] args)
         {
-            //Adda using System.IO;
-            string line = null;
-
             using (StreamReader reader = new StreamReader("stuff.txt"))  //stuff.txt inniheldur tvær línur af texta
             {
-                line = reader.ReadLine(); //Line verður innihald fyrstu línunnar í skjalinu
+                Console.WriteLine(reader.ReadLine());
             }
 
-            Console.WriteLine(line); //Skrifar út fyrstu línuna
             Console.ReadLine();
         }
     }
